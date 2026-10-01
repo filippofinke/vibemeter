@@ -8,6 +8,8 @@
 	<string>Vibemeter</string>
 	<key>CFBundleExecutable</key>
 	<string>Vibemeter</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.filippofinke.vibemeter</string>
 	<key>CFBundleInfoDictionaryVersion</key>
